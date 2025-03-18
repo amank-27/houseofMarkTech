@@ -1,11 +1,14 @@
 # House of MarkTech - Frontend Developer Task
 
+## Deployed on vercel live link- https://houseof-mark-tech.vercel.app/
+
+## github repo- https://github.com/amank-27/houseofMarkTech
 
 ## Installation
 
 1. Clone the repository:
 
-   git clone url
+   git clone url of my repo
    cd house-of-marktech
    
 
